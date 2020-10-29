@@ -1,5 +1,5 @@
 {
-  "name": "twitter noise remover",
+  "name": "deplextension",
   "description": "remove retweet with flaming, trolling and so on",
   "version": "1.0",
   "permissions": [
